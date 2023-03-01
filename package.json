@@ -1,0 +1,22 @@
+{
+  "name": "blurhash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "blurhash": "^2.0.5",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "sharp": "^0.31.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
